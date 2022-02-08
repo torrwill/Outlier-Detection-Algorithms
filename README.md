@@ -39,4 +39,4 @@ None.
 Since all the data points are numeric, a linear regression algorithm will be used to evaluate the model's performance. The value returned will be the Mean Absolute Error (MAE).
 
 **The Algorithm:**
-[Determining MAE](Outlier-Detection-Algorithms/blob/master/MeanAbsErr.py)
+[Determining MAE](Outlier-Detection-Algorithms/blob/main/Algorithms/MeanAbsErr.py)
